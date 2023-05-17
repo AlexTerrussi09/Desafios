@@ -1,0 +1,5 @@
+Se Agrego views.routes.js para organizar las rutas de los handlebars
+
+Las correciones estan comentadas
+
+Se agregaron funciones para websocket
